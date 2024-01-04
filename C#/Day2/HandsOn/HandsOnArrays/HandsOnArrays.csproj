@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>HandsOnArrays.Demo4</StartupObject>
+    <StartupObject>HandsOnArrays.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
