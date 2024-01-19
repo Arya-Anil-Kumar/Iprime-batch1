@@ -37,7 +37,8 @@ nav ul li a {
 main {
     height: 400px;
     background-color: white;
-    background-image: url('uu.avif');
+    background-size: cover;
+    background-image: url('dd');
     background-repeat: no-repeat;
   
 }
